@@ -1,0 +1,12 @@
+.classComponents {
+    background-color: #ddd;
+    margin: 2rem auto;
+    width: 100%;
+    max-width: 80%;
+    padding: 2rem;
+  }
+
+
+  .textIndent{
+    text-indent: 4rem;
+  }
